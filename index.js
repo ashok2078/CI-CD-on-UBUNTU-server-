@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
             <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
                 <h1 class="text-2xl font-black tracking-wider">⚡ LUXECART</h1>
                 <div class="bg-white/10 px-4 py-2 rounded-full text-xs font-semibold tracking-wide uppercase border border-white/20">
-                    CI/CD Deployed on Ubuntu 🚀
+                    CI/CD Deployed on Ubuntu SERVER 🚀
                 </div>
             </div>
         </header>
